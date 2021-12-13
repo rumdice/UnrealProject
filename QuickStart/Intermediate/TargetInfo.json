@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "QuickStart",
+			"Path": "C:\\GitHub\\UnrealProject\\QuickStart\\Source\\QuickStart.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "QuickStartEditor",
+			"Path": "C:\\GitHub\\UnrealProject\\QuickStart\\Source\\QuickStartEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

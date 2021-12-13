@@ -1,0 +1,3 @@
+C:\GitHub\UnrealProject\QuickStart\Intermediate\Build\Win64\UE4Editor\Development\QuickStart\Definitions.QuickStart.h
+C:\GitHub\UnrealProject\QuickStart\Source\QuickStart\FloatingActor.h
+C:\GitHub\UnrealProject\QuickStart\Intermediate\Build\Win64\UE4Editor\Inc\QuickStart\FloatingActor.generated.h

@@ -10,3 +10,18 @@ C++ 리마인드 및 최신 버전 학습
 - v 4.27.2
 
 프로젝트 아무거나 만들어보고 git으로 관리 해보기
+- 처음부터 너무 복잡한 프로젝트 말고 간단한 것부터 
+- https://docs.unrealengine.com/4.27/ko/ProgrammingAndScripting/ProgrammingWithCPP/CPPProgrammingQuickStart/
+- 프로그래밍 퀵 스타트 이게 좋을듯.
+
+
+visual studio 프로젝트 메뉴 중
+- c++/unreal engine 설치 관리자 프로젝트 타입이 있길레 설치 해봄
+
+
+온라인 강의
+- 많음
+- 셈플 프로젝트도 엄청 많음.
+
+
+
