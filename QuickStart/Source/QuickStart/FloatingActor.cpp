@@ -26,6 +26,9 @@ void AFloatingActor::Tick(float DeltaTime)
 	FVector NewLocation = GetActorLocation();
 	float DeltaHeight = (FMath::Sin(RunningTime + DeltaTime) - FMath::Sin(RunningTime));
 	NewLocation.Z += DeltaHeight * MoveSpeed; // 원뿔에 대한 위치 값 (트랜스폼)은 에디터 상에서 셋팅 가능
+	
+	float DeltaWidth = (FMath::Sin(RunningTime + 0.6) - FMath::Sin(RunningTime));
+	NewLocation.Y += DeltaWidth * 20.0f; // 옆으로 슝
 	RunningTime += DeltaTime;
 	SetActorLocation(NewLocation);
 }
